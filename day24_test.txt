@@ -1,0 +1,4 @@
+inp w
+add z w
+mul z 4
+div z 2

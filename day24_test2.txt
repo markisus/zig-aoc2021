@@ -1,0 +1,4 @@
+add z 14
+add z 15
+eql x z
+mod x 12
